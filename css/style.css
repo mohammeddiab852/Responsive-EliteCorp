@@ -150,8 +150,8 @@ form button {
 .work ul li {
     border: 1px solid #08526d;
     margin-bottom: 30px;
-    padding: 8px 2px;
-    margin-left: 10px;
+    padding: 5px 3px;
+    margin-left: 3px;
 }
 .work ul li:hover {
     background-color: red;
