@@ -148,9 +148,9 @@ form button {
 }
 
 .work ul li {
-    border: 2px solid #08526d;
+    border: 1px solid #08526d;
     margin-bottom: 30px;
-    padding: 10px 15px;
+    padding: 8px 2px;
     margin-left: 10px;
 }
 .work ul li:hover {
